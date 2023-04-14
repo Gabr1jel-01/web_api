@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+virtualno_okruzenje/
 
 # Spyder project settings
 .spyderproject
